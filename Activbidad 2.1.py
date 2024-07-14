@@ -32,3 +32,5 @@ for i in array:
 print(array)      
 print("El valor minimo es: ", minimum, "-- Location " + str(minimunloc))         
 print("El valor maximo es: ", maximum, "--location " + str(maximumloc))
+#Añandiendo comentario para commit
+
